@@ -1,1 +1,2 @@
-# hexagon-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
